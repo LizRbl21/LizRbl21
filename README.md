@@ -1,4 +1,4 @@
-![Liz's Profile Picture](https://drive.google.com/file/d/16gEGvRzXAf-KOJ9tseZAHjjNIr2JkpYq/view?usp=sharing)
+![Liz's Profile Picture](https://drive.google.com/uc?export=view&id=16gEGvRzXAf-KOJ9tseZAHjjNIr2JkpYq)
 <h1 align="center">Hello everyone 👋, I'm Elizabeth Robles</h1>
 <h3 align="center">I'm a Computer Engineering student with a deep passion for learning, building intelligent systems, and empowering others through technology.</h3>
 
