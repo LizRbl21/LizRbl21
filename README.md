@@ -1,4 +1,4 @@
-![Liz's Profile Picture](https://i.imgur.com/QwzRp80.png)
+![Liz's Profile Picture](https://imgur.com/LKpmHnz.png)
 <h1 align="center">Hello everyone 👋, I'm Elizabeth Robles</h1>
 <h3 align="center">I'm a Computer Engineering student with a deep passion for learning, building intelligent systems, and empowering others through technology.</h3>
 
