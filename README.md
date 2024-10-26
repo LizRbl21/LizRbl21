@@ -1,4 +1,4 @@
-<img src="https://drive.google.com/uc?export=view&id=16gEGvRzXAf-KOJ9tseZAHjjNIr2JkpYq" alt="Liz's Profile Picture" width="200"/>
+![Liz's Profile Picture](https://i.imgur.com/GeTRK5O.png)
 <h1 align="center">Hello everyone 👋, I'm Elizabeth Robles</h1>
 <h3 align="center">I'm a Computer Engineering student with a deep passion for learning, building intelligent systems, and empowering others through technology.</h3>
 
