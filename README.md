@@ -1,4 +1,4 @@
-![Liz's Profile Picture]([https://mi-enlace-a-la-imagen.com](https://drive.google.com/file/d/16gEGvRzXAf-KOJ9tseZAHjjNIr2JkpYq/view?usp=drive_link))
+![Liz's Profile Picture](https://drive.google.com/drive/u/0/search?q=fondito_git))
 <h1 align="center">Hello everyone 👋, I'm Elizabeth Robles</h1>
 <h3 align="center">I'm a Computer Engineering student with a deep passion for learning, building intelligent systems, and empowering others through technology.</h3>
 
